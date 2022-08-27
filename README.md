@@ -1,2 +1,2 @@
 # skinbox
-Skinbox for rust (do not distribute)
+Skinbox for rust 
